@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Take 2!"
+date:   2026-10-08 10:44:43 -0400
+categories: jekyll site attempt 2
+---
+This post marks the second, hopefully neater, website set-up I have embarked on.
